@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+.titulo{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight:bold;
+    text-align: center;
+    
+}
+.parrafo{
+    font-family: 'Comfortaa', cursive;
+    font-style: italic;
+    text-indent: 0;
+    white-space:pre-line;
+    background-color: darksalmon;
+    width:200px;
+    height: 200px;
+    border-left: 2px solid black;
+    border-right: 5px dotted red;
+    border-top: 8px double blue;
+    border-bottom: 4px dashed green;
+    border-top-left-radius:;
+    border-top-right-radius:;
+    border-bottom-right-radius:;
+    border-bottom-left-radius:;
+    border-radius:50%;
+}
